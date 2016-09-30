@@ -52,11 +52,11 @@
     }
   },
   "bin": [
-    "bin/moodle-plugin-ci"
+    "bin/moodle-plugin-travis"
   ],
   "scripts": {
     "test": "phpunit",
-    "lint": "parallel-lint src tests bin/moodle-plugin-ci",
+    "lint": "parallel-lint src tests bin/moodle-plugin-travis",
     "fix": "php-cs-fixer fix -v"
   }
 }

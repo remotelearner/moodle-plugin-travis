@@ -1,14 +1,14 @@
 {
-  "name": "moodlerooms/moodle-plugin-ci",
-  "description": "Assists with running Moodle plugins in Travis CI",
+  "name": "remotelearner/moodle-plugin-travis",
+  "description": "Assists with running Moodle plugins in Travis CI. Based on Moodlerooms initial work",
   "keywords": ["moodle", "travis", "ci", "testing"],
   "type": "project",
   "license": "GPL-3.0",
   "authors": [
     {
-      "name": "Mark Nielsen",
-      "email": "mark@moodlerooms.com",
-      "homepage": "http://moodlerooms.com",
+      "name": "Derek Henderson",
+      "email": "derek.henderson@remote-learner.com",
+      "homepage": "http://remote-learner.com",
       "role": "Developer"
     }
   ],
